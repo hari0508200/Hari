@@ -1,5 +1,5 @@
-# Simon-Game
+# Hari
 
 Just a learning part, if love to play games...
-Click here.... https://Hari.github.io/Simon-Game/
+Click here.... https://Hari.github.io/Hari/
 Test your memory, till what level you are able to memorize the pattern...
